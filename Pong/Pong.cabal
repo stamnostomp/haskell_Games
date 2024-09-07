@@ -20,7 +20,7 @@ executable Pong
   main-is:             Main.hs
   -- other-modules:
   -- other-extensions:
-  build-depends:       base >=4.13 && <4.14, gloss, OpenGL, GLUT
+  build-depends:       base >=4.13 && <4.19, gloss, OpenGL, GLUT
 
 
   -- hs-source-dirs:
